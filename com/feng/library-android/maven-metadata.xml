@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.feng.library</groupId>
+  <groupId>com.feng</groupId>
   <artifactId>library-android</artifactId>
   <versioning>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20220213170607</lastUpdated>
+    <lastUpdated>20220213173209</lastUpdated>
   </versioning>
 </metadata>
